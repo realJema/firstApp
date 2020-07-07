@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Native Schools</string>
+    <string name="home_text_title">Queue Management Systems</string>
+    <string name="home_text_desc">An automated queue management system is a system that helps service providers to manage customer in an efficient way, the system can automate the customer flow management and the customer journey at agencies. The purpose of this project is to find and integrate an Automated Queue Management System for organizing queuing, analyze the queue status and take decisions of which customer to serve first. In this way, the queue management systems helps to provide comfort as well as fairness to customers, by allowing them to maintain their position in the queue, while seating comfortably or engaged in constructive activity. </string>
+</resources>
